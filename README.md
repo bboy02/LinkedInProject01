@@ -1,2 +1,2 @@
-# LinkedInProject01
-Automating the process of sending LinkedIn connections.
+# WebScraping
+Automating the process of getting the job posts for every 10 minutes in timesnow job portal
